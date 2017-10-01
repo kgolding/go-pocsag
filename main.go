@@ -7,9 +7,9 @@ import (
 	"github.com/codegangsta/cli"
 	"github.com/fatih/color"
 
-	"github.com/dhogborg/go-pocsag/internal/datatypes"
-	"github.com/dhogborg/go-pocsag/internal/pocsag"
-	"github.com/dhogborg/go-pocsag/internal/utils"
+	"github.com/kgolding/go-pocsag/internal/datatypes"
+	"github.com/kgolding/go-pocsag/internal/pocsag"
+	"github.com/kgolding/go-pocsag/internal/utils"
 )
 
 var (

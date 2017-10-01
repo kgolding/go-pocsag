@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dhogborg/go-pocsag/internal/datatypes"
-	"github.com/dhogborg/go-pocsag/internal/utils"
+	"github.com/kgolding/go-pocsag/internal/datatypes"
+	"github.com/kgolding/go-pocsag/internal/utils"
 
 	"github.com/fatih/color"
 )
